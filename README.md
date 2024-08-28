@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrajz&label=Profile%20views&color=0e75b6&style=flat" alt="hrajz" /> </p>
 
-- 🔭 I’m currently working on **A social media web app**
+- 🔭 I’m currently working on **smart contracts**
 
-- 🌱 I’m currently learning **typescript and scrapy**
+- 🌱 I’m currently learning **blockchain**
 
-- 💬 Ask me about **React, Javascript, Data structures**
+- 💬 Ask me about **Javascript, Data structures & problem solving**
 
 - 📫 How to reach me **hrajz.work@gmail.com**
 
